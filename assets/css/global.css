@@ -1,0 +1,37 @@
+	select {
+		margin-bottom: 0px;
+		width:175px; 
+	}
+
+	.parameter_container legend {
+		font-weight:bold;
+	}
+
+	.table_data td {
+		padding:4px;
+		vertical-align: top;
+	}
+
+	.table_data thead tr {
+		border:0px;
+	}
+
+	.table_data thead tr td {
+		white-space:nowrap;
+		min-width:50px;
+	}
+
+	.table_data tbody tr td {
+		padding:4px;
+		border:1px solid #CCCCCC;
+	}
+
+	#sortable {
+		cursor:move;
+	}
+
+	.table_move_cell {
+		margin-top: 3px;
+		margin-left: 8px;
+	}
+

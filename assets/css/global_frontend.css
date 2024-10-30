@@ -1,0 +1,39 @@
+
+	#mobile_theme_switch_debug_container {
+		background:#EEEEEE;
+		border:1px solid #AAAAAA;
+		width:350px;
+		margin: 10px;
+	}
+
+	#mobile_theme_switch_debug_container .title {
+		font-weight:bold;
+		padding:10px;
+		border-bottom:1px solid #AAAAAA;
+	}
+
+	#mobile_theme_switch_debug_container .content {
+		padding:10px;
+	}
+
+	#mobile_theme_switch_debug_container .content .rule_header {
+		padding-top:10px;
+	}
+
+	#mobile_theme_switch_debug_container .content .rule {
+		padding-left:10px;
+	}
+
+	#mobile_theme_switch_debug_container .content .valid_rule {
+		color:#FF0000;
+	}
+
+	#mobile_theme_switch_debug_container .content .invalid_rule {
+		color:#FF0000;
+	}
+
+	#mobile_theme_switch_debug_container .footer {
+		font-weight:bold;
+		padding:10px;
+		border-top:1px solid #AAAAAA;
+	}
